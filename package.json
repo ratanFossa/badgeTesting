@@ -74,6 +74,7 @@
     "url": "git+https://github.com/mrvautin/expressCart.git"
   },
   "license": "MIT",
+  "license": "GPL-2",
   "bugs": {
     "url": "https://github.com/mrvautin/expressCart/issues"
   }
